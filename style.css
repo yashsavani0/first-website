@@ -1,0 +1,134 @@
+body{
+    background-color: pink;
+    
+    
+}
+
+nav ul{
+    align-self: center;
+    background-color: black;
+    height: 40px;
+    margin-top: 0px;
+    padding-top: 10px;
+    border-radius: 25px;
+    
+}
+
+li{
+    color: white;
+    list-style-type: none;
+    display: inline;
+    margin-left: 0.5cm;
+    cursor: pointer;
+    
+
+}
+
+#black-pink{
+    color: pink;
+    border-style: double;
+    box-shadow: pink;
+    text-align: center;
+    border-radius: 13pt;
+    font-size: 25px;
+    margin-left: 0px;
+    border-right: 30px;
+    border-left: 30px;
+
+}
+
+
+.main{
+    height: 15cm;
+    color: black;
+    background-color: black;
+    align-content: center;
+    margin-left: 8%;
+    margin-right: 8%;
+    border-radius: 1cm;
+    margin-top: 20px;
+    justify-content: center;
+  
+   
+}
+
+
+
+.bot{
+    height: 35%;
+    position: sticky;
+    background-color: black;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    border-radius: 10px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: pink;
+
+    
+}
+.icon{
+    margin-bottom: 20px;
+}
+i{
+    margin: 10px;
+}
+#range{
+    margin-bottom: 0px;
+    width: 85%;
+    margin-top: 1%;
+    cursor: pointer;
+
+}
+
+.icon i{
+    cursor: pointer;
+}
+ 
+
+.songitem{
+    height: 5%;
+    border-radius: 50px;
+    width: 50%;
+    margin: 20px;
+    background-color: pink;
+    justify-content: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    cursor: pointer;
+
+}
+
+.songitem img{
+    height: 45px;
+    width: 50px;
+    border-radius: 50%;
+    margin-left: 15px;
+
+}
+
+.songitem span{
+    color: black;
+}
+
+p{
+    margin-left: 40px;
+    color: pink;
+    font-size: larger;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+

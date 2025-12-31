@@ -1,0 +1,79 @@
+body{
+    background-color: pink;
+    
+    
+}
+
+nav ul{
+    align-self: center;
+    background-color: black;
+    height: 40px;
+    margin-top: 0px;
+    padding-top: 10px;
+    border-radius: 25px;
+    
+}
+
+li{
+    color: white;
+    list-style-type: none;
+    display: inline;
+    margin-left: 0.5cm;
+    
+
+}
+
+#black-pink{
+    color: pink;
+    border-style: double;
+    box-shadow: pink;
+    text-align: center;
+    border-radius: 13pt;
+    font-size: 25px;
+    margin-left: 0px;
+    border-right: 30px;
+    border-left: 30px;
+
+}
+
+
+.main{
+    height: 15cm;
+    color: black;
+    background-color: black;
+    align-content: center;
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 1cm;
+}
+
+
+.bot{
+    height: 100px;
+    position: sticky;
+    background-color: black;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    border-radius: 10px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: pink;
+
+    
+}
+.icon{
+    margin-bottom: 20px;
+}
+i{
+    margin: 10px;
+}
+#range{
+    margin-bottom: 0px;
+    width: 1050px;
+
+}
